@@ -8,6 +8,7 @@ Before anything, remember that projects are a group effort: Working closely with
 
 In other words, working in groups allows you to **work smart** and **dream big**. Take advantage of it!
 
+---
 ## Project Proposal
 
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
@@ -36,5 +37,12 @@ The technical requirements for Project 1 are as follows.
 * [ ] Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions.
 
 * [ ] Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
+---
+
+## Homes Built VS Homes in HOA
 
 
+* [PowerPoint Slides](https://docs.google.com/presentation/d/e/2PACX-1vT6qXSp9NU8jxRQ6GxYstVtTwg5UHvlxpDN2jJoGuil1wXNt3tg8EtA3YcrIBTdrrGz2T5ISXWCjch5/embed?start=false&loop=false&delayms=3000)
+
+
+## "Cost of HOA fees in each neighborhood... ?" 
